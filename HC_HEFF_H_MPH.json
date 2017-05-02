@@ -1,4 +1,4 @@
-var mobile={
+var HC_HEFF_H_MPH={
   "type": "FeatureCollection",
   "features": [
     {
@@ -288,7 +288,19 @@ var mobile={
       "type": "Feature",
       "id": "AFG",
       "properties": {
-        "name": "Afghanistan"
+        "name": "Afghanistan",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 87.3,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -608,7 +620,19 @@ var mobile={
       "type": "Feature",
       "id": "AGO",
       "properties": {
-        "name": "Angola"
+        "name": "Angola",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 51.7,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 26
       }
     },
     {
@@ -710,7 +734,19 @@ var mobile={
       "type": "Feature",
       "id": "ALB",
       "properties": {
-        "name": "Albania"
+        "name": "Albania",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 94.1,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -812,7 +848,19 @@ var mobile={
       "type": "Feature",
       "id": "ARE",
       "properties": {
-        "name": "United Arab Emirates"
+        "name": "United Arab Emirates",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -1316,7 +1364,19 @@ var mobile={
       "type": "Feature",
       "id": "ARG",
       "properties": {
-        "name": "Argentina"
+        "name": "Argentina",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -1410,8 +1470,19 @@ var mobile={
       "type": "Feature",
       "id": "ARM",
       "properties": {
-        "mobile": 86.9,
-        "name": "Armenia"
+        "name": "Armenia",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 86.9,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -4079,7 +4150,19 @@ var mobile={
       "type": "Feature",
       "id": "ATA",
       "properties": {
-        "name": "Antarctica"
+        "name": "Antarctica",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -4129,7 +4212,19 @@ var mobile={
       "type": "Feature",
       "id": "ATF",
       "properties": {
-        "name": "French Southern and Antarctic Lands"
+        "name": "French Southern and Antarctic Lands",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -5113,7 +5208,19 @@ var mobile={
       "type": "Feature",
       "id": "AUS",
       "properties": {
-        "name": "Australia"
+        "name": "Australia",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -5275,7 +5382,19 @@ var mobile={
       "type": "Feature",
       "id": "AUT",
       "properties": {
-        "name": "Austria"
+        "name": "Austria",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -5471,7 +5590,19 @@ var mobile={
       "type": "Feature",
       "id": "AZE",
       "properties": {
-        "name": "Azerbaijan"
+        "name": "Azerbaijan",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 55.1
       }
     },
     {
@@ -5537,8 +5668,19 @@ var mobile={
       "type": "Feature",
       "id": "BDI",
       "properties": {
-        "mobile": 18.4,
-        "name": "Burundi"
+        "name": "Burundi",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 32.1,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 18.4,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -5612,7 +5754,19 @@ var mobile={
       "type": "Feature",
       "id": "BEL",
       "properties": {
-        "name": "Belgium"
+        "name": "Belgium",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -5726,7 +5880,19 @@ var mobile={
       "type": "Feature",
       "id": "BEN",
       "properties": {
-        "name": "Benin"
+        "name": "Benin",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 71.5,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 23.5
       }
     },
     {
@@ -5896,8 +6062,19 @@ var mobile={
       "type": "Feature",
       "id": "BFA",
       "properties": {
-        "mobile": 59.2,
-        "name": "Burkina Faso"
+        "name": "Burkina Faso",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 86.4,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 59.2,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -6055,7 +6232,19 @@ var mobile={
       "type": "Feature",
       "id": "BGD",
       "properties": {
-        "name": "Bangladesh"
+        "name": "Bangladesh",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 88.5,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 78.4,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 31.7,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -6181,7 +6370,19 @@ var mobile={
       "type": "Feature",
       "id": "BGR",
       "properties": {
-        "name": "Bulgaria"
+        "name": "Bulgaria",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -6289,7 +6490,19 @@ var mobile={
       "type": "Feature",
       "id": "BHS",
       "properties": {
-        "name": "The Bahamas"
+        "name": "The Bahamas",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -6391,7 +6604,19 @@ var mobile={
       "type": "Feature",
       "id": "BIH",
       "properties": {
-        "name": "Bosnia and Herzegovina"
+        "name": "Bosnia and Herzegovina",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -6581,7 +6806,19 @@ var mobile={
       "type": "Feature",
       "id": "BLR",
       "properties": {
-        "name": "Belarus"
+        "name": "Belarus",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -6675,7 +6912,19 @@ var mobile={
       "type": "Feature",
       "id": "BLZ",
       "properties": {
-        "name": "Belize"
+        "name": "Belize",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -7033,7 +7282,19 @@ var mobile={
       "type": "Feature",
       "id": "BMU",
       "properties": {
-        "name": "Bermuda"
+        "name": "Bermuda",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -7287,7 +7548,19 @@ var mobile={
       "type": "Feature",
       "id": "BOL",
       "properties": {
-        "name": "Bolivia"
+        "name": "Bolivia",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 56.2,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -8113,7 +8386,19 @@ var mobile={
       "type": "Feature",
       "id": "BRA",
       "properties": {
-        "name": "Brazil"
+        "name": "Brazil",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -8159,7 +8444,19 @@ var mobile={
       "type": "Feature",
       "id": "BRN",
       "properties": {
-        "name": "Brunei"
+        "name": "Brunei",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -8225,7 +8522,19 @@ var mobile={
       "type": "Feature",
       "id": "BTN",
       "properties": {
-        "name": "Bhutan"
+        "name": "Bhutan",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -8399,7 +8708,19 @@ var mobile={
       "type": "Feature",
       "id": "BWA",
       "properties": {
-        "name": "Botswana"
+        "name": "Botswana",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -8661,7 +8982,19 @@ var mobile={
       "type": "Feature",
       "id": "CAF",
       "properties": {
-        "name": "Central African Republic"
+        "name": "Central African Republic",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -11961,7 +12294,19 @@ var mobile={
       "type": "Feature",
       "id": "CAN",
       "properties": {
-        "name": "Canada"
+        "name": "Canada",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -12071,7 +12416,19 @@ var mobile={
       "type": "Feature",
       "id": "CHE",
       "properties": {
-        "name": "Switzerland"
+        "name": "Switzerland",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -12547,7 +12904,19 @@ var mobile={
       "type": "Feature",
       "id": "CHL",
       "properties": {
-        "name": "Chile"
+        "name": "Chile",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -13527,7 +13896,19 @@ var mobile={
       "type": "Feature",
       "id": "CHN",
       "properties": {
-        "name": "China"
+        "name": "China",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -13725,7 +14106,19 @@ var mobile={
       "type": "Feature",
       "id": "CIV",
       "properties": {
-        "name": "Ivory Coast"
+        "name": "Ivory Coast",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -13983,7 +14376,19 @@ var mobile={
       "type": "Feature",
       "id": "CMR",
       "properties": {
-        "name": "Cameroon"
+        "name": "Cameroon",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 67.2,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -14485,7 +14890,19 @@ var mobile={
       "type": "Feature",
       "id": "COD",
       "properties": {
-        "name": "Democratic Republic of the Congo"
+        "name": "Democratic Republic of the Congo",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -14695,7 +15112,19 @@ var mobile={
       "type": "Feature",
       "id": "COG",
       "properties": {
-        "name": "Republic of the Congo"
+        "name": "Republic of the Congo",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -15109,8 +15538,19 @@ var mobile={
       "type": "Feature",
       "id": "COL",
       "properties": {
-        "mobile": 90.5,
-        "name": "Colombia"
+        "name": "Colombia",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 90.5,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -15268,7 +15708,19 @@ var mobile={
       "type": "Feature",
       "id": "CRI",
       "properties": {
-        "name": "Costa Rica"
+        "name": "Costa Rica",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -15450,7 +15902,19 @@ var mobile={
       "type": "Feature",
       "id": "CUB",
       "properties": {
-        "name": "Cuba"
+        "name": "Cuba",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -15528,7 +15992,19 @@ var mobile={
       "type": "Feature",
       "id": "-99",
       "properties": {
-        "name": "Northern Cyprus"
+        "name": "Northern Cyprus",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -15602,7 +16078,19 @@ var mobile={
       "type": "Feature",
       "id": "CYP",
       "properties": {
-        "name": "Cyprus"
+        "name": "Cyprus",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -15756,7 +16244,19 @@ var mobile={
       "type": "Feature",
       "id": "CZE",
       "properties": {
-        "name": "Czech Republic"
+        "name": "Czech Republic",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -16002,7 +16502,19 @@ var mobile={
       "type": "Feature",
       "id": "DEU",
       "properties": {
-        "name": "Germany"
+        "name": "Germany",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -16076,7 +16588,19 @@ var mobile={
       "type": "Feature",
       "id": "DJI",
       "properties": {
-        "name": "Djibouti"
+        "name": "Djibouti",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -16192,7 +16716,19 @@ var mobile={
       "type": "Feature",
       "id": "DNK",
       "properties": {
-        "name": "Denmark"
+        "name": "Denmark",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -16310,7 +16846,19 @@ var mobile={
       "type": "Feature",
       "id": "DOM",
       "properties": {
-        "name": "Dominican Republic"
+        "name": "Dominican Republic",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 68.8,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -16572,7 +17120,19 @@ var mobile={
       "type": "Feature",
       "id": "DZA",
       "properties": {
-        "name": "Algeria"
+        "name": "Algeria",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -16718,7 +17278,19 @@ var mobile={
       "type": "Feature",
       "id": "ECU",
       "properties": {
-        "name": "Ecuador"
+        "name": "Ecuador",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -16900,7 +17472,19 @@ var mobile={
       "type": "Feature",
       "id": "EGY",
       "properties": {
-        "name": "Egypt"
+        "name": "Egypt",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 40.5,
+        "HC_HEFF_H_MPH2014": 90.3,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -17026,7 +17610,19 @@ var mobile={
       "type": "Feature",
       "id": "ERI",
       "properties": {
-        "name": "Eritrea"
+        "name": "Eritrea",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -17244,7 +17840,19 @@ var mobile={
       "type": "Feature",
       "id": "ESP",
       "properties": {
-        "name": "Spain"
+        "name": "Spain",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -17326,7 +17934,19 @@ var mobile={
       "type": "Feature",
       "id": "EST",
       "properties": {
-        "name": "Estonia"
+        "name": "Estonia",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -17576,7 +18196,19 @@ var mobile={
       "type": "Feature",
       "id": "ETH",
       "properties": {
-        "name": "Ethiopia"
+        "name": "Ethiopia",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 24.7,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -17742,7 +18374,19 @@ var mobile={
       "type": "Feature",
       "id": "FIN",
       "properties": {
-        "name": "Finland"
+        "name": "Finland",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -17854,7 +18498,19 @@ var mobile={
       "type": "Feature",
       "id": "FJI",
       "properties": {
-        "name": "Fiji"
+        "name": "Fiji",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -17908,7 +18564,19 @@ var mobile={
       "type": "Feature",
       "id": "FLK",
       "properties": {
-        "name": "Falkland Islands"
+        "name": "Falkland Islands",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -18148,7 +18816,19 @@ var mobile={
       "type": "Feature",
       "id": "FRA",
       "properties": {
-        "name": "France"
+        "name": "France",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -18286,7 +18966,19 @@ var mobile={
       "type": "Feature",
       "id": "GAB",
       "properties": {
-        "name": "Gabon"
+        "name": "Gabon",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 91.9,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -18530,7 +19222,19 @@ var mobile={
       "type": "Feature",
       "id": "GBR",
       "properties": {
-        "name": "United Kingdom"
+        "name": "United Kingdom",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -18640,7 +19344,19 @@ var mobile={
       "type": "Feature",
       "id": "GEO",
       "properties": {
-        "name": "Georgia"
+        "name": "Georgia",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -18754,7 +19470,19 @@ var mobile={
       "type": "Feature",
       "id": "GHA",
       "properties": {
-        "name": "Ghana"
+        "name": "Ghana",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 57,
+        "HC_HEFF_H_MPH2014": 85.1,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -19048,7 +19776,19 @@ var mobile={
       "type": "Feature",
       "id": "GIN",
       "properties": {
-        "name": "Guinea"
+        "name": "Guinea",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 65.3,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -19126,7 +19866,19 @@ var mobile={
       "type": "Feature",
       "id": "GMB",
       "properties": {
-        "name": "Gambia"
+        "name": "Gambia",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 90.6,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -19216,7 +19968,19 @@ var mobile={
       "type": "Feature",
       "id": "GNB",
       "properties": {
-        "name": "Guinea Bissau"
+        "name": "Guinea Bissau",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -19258,7 +20022,19 @@ var mobile={
       "type": "Feature",
       "id": "GNQ",
       "properties": {
-        "name": "Equatorial Guinea"
+        "name": "Equatorial Guinea",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -19494,7 +20270,19 @@ var mobile={
       "type": "Feature",
       "id": "GRC",
       "properties": {
-        "name": "Greece"
+        "name": "Greece",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -20036,7 +20824,19 @@ var mobile={
       "type": "Feature",
       "id": "GRL",
       "properties": {
-        "name": "Greenland"
+        "name": "Greenland",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -20190,7 +20990,19 @@ var mobile={
       "type": "Feature",
       "id": "GTM",
       "properties": {
-        "name": "Guatemala"
+        "name": "Guatemala",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 87.5,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -20280,7 +21092,19 @@ var mobile={
       "type": "Feature",
       "id": "GUF",
       "properties": {
-        "name": "French Guiana"
+        "name": "French Guiana",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -20454,7 +21278,19 @@ var mobile={
       "type": "Feature",
       "id": "GUY",
       "properties": {
-        "name": "Guyana"
+        "name": "Guyana",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 79.7,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 55.1,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -20696,7 +21532,19 @@ var mobile={
       "type": "Feature",
       "id": "HND",
       "properties": {
-        "name": "Honduras"
+        "name": "Honduras",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 85.7,
+        "HC_HEFF_H_MPH2005": 36.1,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -20878,7 +21726,19 @@ var mobile={
       "type": "Feature",
       "id": "HRV",
       "properties": {
-        "name": "Croatia"
+        "name": "Croatia",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -20976,7 +21836,19 @@ var mobile={
       "type": "Feature",
       "id": "HTI",
       "properties": {
-        "name": "Haiti"
+        "name": "Haiti",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 77.2,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 17.3
       }
     },
     {
@@ -21114,7 +21986,19 @@ var mobile={
       "type": "Feature",
       "id": "HUN",
       "properties": {
-        "name": "Hungary"
+        "name": "Hungary",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -22178,7 +23062,19 @@ var mobile={
       "type": "Feature",
       "id": "IDN",
       "properties": {
-        "name": "Indonesia"
+        "name": "Indonesia",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 82.9,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -22736,7 +23632,19 @@ var mobile={
       "type": "Feature",
       "id": "IND",
       "properties": {
-        "name": "India"
+        "name": "India",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 16.8
       }
     },
     {
@@ -22802,7 +23710,19 @@ var mobile={
       "type": "Feature",
       "id": "IRL",
       "properties": {
-        "name": "Ireland"
+        "name": "Ireland",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -23116,7 +24036,19 @@ var mobile={
       "type": "Feature",
       "id": "IRN",
       "properties": {
-        "name": "Iran"
+        "name": "Iran",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -23250,7 +24182,19 @@ var mobile={
       "type": "Feature",
       "id": "IRQ",
       "properties": {
-        "name": "Iraq"
+        "name": "Iraq",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -23344,7 +24288,19 @@ var mobile={
       "type": "Feature",
       "id": "ISL",
       "properties": {
-        "name": "Iceland"
+        "name": "Iceland",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -23450,7 +24406,19 @@ var mobile={
       "type": "Feature",
       "id": "ISR",
       "properties": {
-        "name": "Israel"
+        "name": "Israel",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -23822,7 +24790,19 @@ var mobile={
       "type": "Feature",
       "id": "ITA",
       "properties": {
-        "name": "Italy"
+        "name": "Italy",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -23880,7 +24860,19 @@ var mobile={
       "type": "Feature",
       "id": "JAM",
       "properties": {
-        "name": "Jamaica"
+        "name": "Jamaica",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -23970,7 +24962,19 @@ var mobile={
       "type": "Feature",
       "id": "JOR",
       "properties": {
-        "name": "Jordan"
+        "name": "Jordan",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 97.1,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 98.4,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 90,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -24254,7 +25258,19 @@ var mobile={
       "type": "Feature",
       "id": "JPN",
       "properties": {
-        "name": "Japan"
+        "name": "Japan",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -24716,7 +25732,19 @@ var mobile={
       "type": "Feature",
       "id": "KAZ",
       "properties": {
-        "name": "Kazakhstan"
+        "name": "Kazakhstan",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -24878,7 +25906,19 @@ var mobile={
       "type": "Feature",
       "id": "KEN",
       "properties": {
-        "name": "Kenya"
+        "name": "Kenya",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 90.1,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 61.5,
+        "HC_HEFF_H_MPH2014": 86,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -25032,7 +26072,19 @@ var mobile={
       "type": "Feature",
       "id": "KGZ",
       "properties": {
-        "name": "Kyrgyzstan"
+        "name": "Kyrgyzstan",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -25114,8 +26166,19 @@ var mobile={
       "type": "Feature",
       "id": "KHM",
       "properties": {
-        "mobile": 61.9,
-        "name": "Cambodia"
+        "name": "Cambodia",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 87.2,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 61.9,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 20.1,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -25205,7 +26268,19 @@ var mobile={
       "type": "Feature",
       "id": "KOR",
       "properties": {
-        "name": "South Korea"
+        "name": "South Korea",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -25303,7 +26378,19 @@ var mobile={
       "type": "Feature",
       "id": "CS-KM",
       "properties": {
-        "name": "Kosovo"
+        "name": "Kosovo",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -25353,7 +26440,19 @@ var mobile={
       "type": "Feature",
       "id": "KWT",
       "properties": {
-        "name": "Kuwait"
+        "name": "Kuwait",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -25515,7 +26614,19 @@ var mobile={
       "type": "Feature",
       "id": "LAO",
       "properties": {
-        "name": "Laos"
+        "name": "Laos",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -25573,7 +26684,19 @@ var mobile={
       "type": "Feature",
       "id": "LBN",
       "properties": {
-        "name": "Lebanon"
+        "name": "Lebanon",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -25695,7 +26818,19 @@ var mobile={
       "type": "Feature",
       "id": "LBR",
       "properties": {
-        "name": "Liberia"
+        "name": "Liberia",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 43.2,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 64.6,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 54.1,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 28.7,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -25933,7 +27068,19 @@ var mobile={
       "type": "Feature",
       "id": "LBY",
       "properties": {
-        "name": "Libya"
+        "name": "Libya",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -25987,7 +27134,19 @@ var mobile={
       "type": "Feature",
       "id": "LKA",
       "properties": {
-        "name": "Sri Lanka"
+        "name": "Sri Lanka",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -26049,7 +27208,19 @@ var mobile={
       "type": "Feature",
       "id": "LSO",
       "properties": {
-        "name": "Lesotho"
+        "name": "Lesotho",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 64.9,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 83.7,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -26139,7 +27310,19 @@ var mobile={
       "type": "Feature",
       "id": "LTU",
       "properties": {
-        "name": "Lithuania"
+        "name": "Lithuania",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -26181,7 +27364,19 @@ var mobile={
       "type": "Feature",
       "id": "LUX",
       "properties": {
-        "name": "Luxembourg"
+        "name": "Luxembourg",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -26283,7 +27478,19 @@ var mobile={
       "type": "Feature",
       "id": "LVA",
       "properties": {
-        "name": "Latvia"
+        "name": "Latvia",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -26553,7 +27760,19 @@ var mobile={
       "type": "Feature",
       "id": "MAR",
       "properties": {
-        "name": "Morocco"
+        "name": "Morocco",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -26675,7 +27894,19 @@ var mobile={
       "type": "Feature",
       "id": "MDA",
       "properties": {
-        "name": "Moldova"
+        "name": "Moldova",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -26885,8 +28116,19 @@ var mobile={
       "type": "Feature",
       "id": "MDG",
       "properties": {
-        "mobile": 25.2,
-        "name": "Madagascar"
+        "name": "Madagascar",
+        "HC_HEFF_H_MPH2016": 34,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 25.4,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 25.2,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 24.1,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -27580,7 +28822,19 @@ var mobile={
       "type": "Feature",
       "id": "MEX",
       "properties": {
-        "name": "Mexico"
+        "name": "Mexico",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -27662,7 +28916,19 @@ var mobile={
       "type": "Feature",
       "id": "MKD",
       "properties": {
-        "name": "Macedonia"
+        "name": "Macedonia",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -27980,7 +29246,19 @@ var mobile={
       "type": "Feature",
       "id": "MLI",
       "properties": {
-        "name": "Mali"
+        "name": "Mali",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 90.1,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 73.8,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 15.8
       }
     },
     {
@@ -28064,7 +29342,19 @@ var mobile={
       "type": "Feature",
       "id": "MLT",
       "properties": {
-        "name": "Malta"
+        "name": "Malta",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -28358,7 +29648,19 @@ var mobile={
       "type": "Feature",
       "id": "MMR",
       "properties": {
-        "name": "Myanmar"
+        "name": "Myanmar",
+        "HC_HEFF_H_MPH2016": 73,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -28444,7 +29746,19 @@ var mobile={
       "type": "Feature",
       "id": "MNE",
       "properties": {
-        "name": "Montenegro"
+        "name": "Montenegro",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -28758,7 +30072,19 @@ var mobile={
       "type": "Feature",
       "id": "MNG",
       "properties": {
-        "name": "Mongolia"
+        "name": "Mongolia",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -29080,7 +30406,19 @@ var mobile={
       "type": "Feature",
       "id": "MOZ",
       "properties": {
-        "name": "Mozambique"
+        "name": "Mozambique",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 25.5,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 34.1,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -29250,7 +30588,19 @@ var mobile={
       "type": "Feature",
       "id": "MRT",
       "properties": {
-        "name": "Mauritania"
+        "name": "Mauritania",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -29376,8 +30726,19 @@ var mobile={
       "type": "Feature",
       "id": "MWI",
       "properties": {
-        "mobile": 39,
-        "name": "Malawi"
+        "name": "Malawi",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 53.7,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 48.8,
+        "HC_HEFF_H_MPH2012": 38,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 39,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -29645,7 +31006,19 @@ var mobile={
       "type": "Feature",
       "id": "MYS",
       "properties": {
-        "name": "Malaysia"
+        "name": "Malaysia",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -29835,7 +31208,19 @@ var mobile={
       "type": "Feature",
       "id": "NAM",
       "properties": {
-        "name": "Namibia"
+        "name": "Namibia",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 88.5,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 52.4
       }
     },
     {
@@ -29901,7 +31286,19 @@ var mobile={
       "type": "Feature",
       "id": "NCL",
       "properties": {
-        "name": "New Caledonia"
+        "name": "New Caledonia",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -30147,7 +31544,19 @@ var mobile={
       "type": "Feature",
       "id": "NER",
       "properties": {
-        "name": "Niger"
+        "name": "Niger",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 50,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 6.5
       }
     },
     {
@@ -30393,8 +31802,19 @@ var mobile={
       "type": "Feature",
       "id": "NGA",
       "properties": {
-        "mobile": 59.7,
-        "name": "Nigeria"
+        "name": "Nigeria",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 78.5,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 49.7,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 75.1,
+        "HC_HEFF_H_MPH2010": 59.7,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -30616,7 +32036,19 @@ var mobile={
       "type": "Feature",
       "id": "NIC",
       "properties": {
-        "name": "Nicaragua"
+        "name": "Nicaragua",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -30686,7 +32118,19 @@ var mobile={
       "type": "Feature",
       "id": "NLD",
       "properties": {
-        "name": "Netherlands"
+        "name": "Netherlands",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -31066,7 +32510,19 @@ var mobile={
       "type": "Feature",
       "id": "NOR",
       "properties": {
-        "name": "Norway"
+        "name": "Norway",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -31172,7 +32628,19 @@ var mobile={
       "type": "Feature",
       "id": "NPL",
       "properties": {
-        "name": "Nepal"
+        "name": "Nepal",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 74.7,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 5.5
       }
     },
     {
@@ -31456,7 +32924,19 @@ var mobile={
       "type": "Feature",
       "id": "NZL",
       "properties": {
-        "name": "New Zealand"
+        "name": "New Zealand",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -31664,7 +33144,19 @@ var mobile={
       "type": "Feature",
       "id": "OMN",
       "properties": {
-        "name": "Oman"
+        "name": "Oman",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -31942,7 +33434,19 @@ var mobile={
       "type": "Feature",
       "id": "PAK",
       "properties": {
-        "name": "Pakistan"
+        "name": "Pakistan",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 87,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -32164,7 +33668,19 @@ var mobile={
       "type": "Feature",
       "id": "PAN",
       "properties": {
-        "name": "Panama"
+        "name": "Panama",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -32482,8 +33998,20 @@ var mobile={
       "type": "Feature",
       "id": "PER",
       "properties": {
-        "mobile": 73.9,
-        "name": "Peru"
+        "name": "Peru",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 67.6,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 81.9,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 73.9,
+        "HC_HEFF_H_MPH2011": 78.1,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2004": 16.5,
+        "HC_HEFF_H_MPH2007": 50,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -32963,7 +34491,19 @@ var mobile={
       "type": "Feature",
       "id": "PHL",
       "properties": {
-        "name": "Philippines"
+        "name": "Philippines",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 70.1,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 83.9,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -33315,7 +34855,19 @@ var mobile={
       "type": "Feature",
       "id": "PNG",
       "properties": {
-        "name": "Papua New Guinea"
+        "name": "Papua New Guinea",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -33509,7 +35061,19 @@ var mobile={
       "type": "Feature",
       "id": "POL",
       "properties": {
-        "name": "Poland"
+        "name": "Poland",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -33559,7 +35123,19 @@ var mobile={
       "type": "Feature",
       "id": "PRI",
       "properties": {
-        "name": "Puerto Rico"
+        "name": "Puerto Rico",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -33745,7 +35321,19 @@ var mobile={
       "type": "Feature",
       "id": "PRK",
       "properties": {
-        "name": "North Korea"
+        "name": "North Korea",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -33891,7 +35479,19 @@ var mobile={
       "type": "Feature",
       "id": "PRT",
       "properties": {
-        "name": "Portugal"
+        "name": "Portugal",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -34037,7 +35637,19 @@ var mobile={
       "type": "Feature",
       "id": "PRY",
       "properties": {
-        "name": "Paraguay"
+        "name": "Paraguay",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -34087,7 +35699,19 @@ var mobile={
       "type": "Feature",
       "id": "QAT",
       "properties": {
-        "name": "Qatar"
+        "name": "Qatar",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -34277,7 +35901,19 @@ var mobile={
       "type": "Feature",
       "id": "ROU",
       "properties": {
-        "name": "Romania"
+        "name": "Romania",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -36733,7 +38369,19 @@ var mobile={
       "type": "Feature",
       "id": "RUS",
       "properties": {
-        "name": "Russia"
+        "name": "Russia",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -36799,8 +38447,19 @@ var mobile={
       "type": "Feature",
       "id": "RWA",
       "properties": {
-        "mobile": 40.3,
-        "name": "Rwanda"
+        "name": "Rwanda",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 59.8,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 13.1,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 55.7,
+        "HC_HEFF_H_MPH2010": 40.3,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -36926,7 +38585,19 @@ var mobile={
       "type": "Feature",
       "id": "ESH",
       "properties": {
-        "name": "Western Sahara"
+        "name": "Western Sahara",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -37244,7 +38915,19 @@ var mobile={
       "type": "Feature",
       "id": "SAU",
       "properties": {
-        "name": "Saudi Arabia"
+        "name": "Saudi Arabia",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -37574,7 +39257,19 @@ var mobile={
       "type": "Feature",
       "id": "SDN",
       "properties": {
-        "name": "Sudan"
+        "name": "Sudan",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -37840,7 +39535,19 @@ var mobile={
       "type": "Feature",
       "id": "SSD",
       "properties": {
-        "name": "South Sudan"
+        "name": "South Sudan",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -38030,8 +39737,19 @@ var mobile={
       "type": "Feature",
       "id": "SEN",
       "properties": {
-        "mobile": 88.4,
-        "name": "Senegal"
+        "name": "Senegal",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 76.5,
+        "HC_HEFF_H_MPH2014": 93.7,
+        "HC_HEFF_H_MPH2012": 92.9,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 88.4,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 56.2
       }
     },
     {
@@ -38211,7 +39929,19 @@ var mobile={
       "type": "Feature",
       "id": "SLB",
       "properties": {
-        "name": "Solomon Islands"
+        "name": "Solomon Islands",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -38313,7 +40043,19 @@ var mobile={
       "type": "Feature",
       "id": "SLE",
       "properties": {
-        "name": "Sierra Leone"
+        "name": "Sierra Leone",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 28.1,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 54.9,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -38407,7 +40149,19 @@ var mobile={
       "type": "Feature",
       "id": "SLV",
       "properties": {
-        "name": "El Salvador"
+        "name": "El Salvador",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -38517,7 +40271,19 @@ var mobile={
       "type": "Feature",
       "id": "-99",
       "properties": {
-        "name": "Somaliland"
+        "name": "Somaliland",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -38675,7 +40441,19 @@ var mobile={
       "type": "Feature",
       "id": "SOM",
       "properties": {
-        "name": "Somalia"
+        "name": "Somalia",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -38873,7 +40651,19 @@ var mobile={
       "type": "Feature",
       "id": "SRB",
       "properties": {
-        "name": "Republic of Serbia"
+        "name": "Republic of Serbia",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -38991,7 +40781,19 @@ var mobile={
       "type": "Feature",
       "id": "SUR",
       "properties": {
-        "name": "Suriname"
+        "name": "Suriname",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -39137,7 +40939,19 @@ var mobile={
       "type": "Feature",
       "id": "SVK",
       "properties": {
-        "name": "Slovakia"
+        "name": "Slovakia",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -39223,7 +41037,19 @@ var mobile={
       "type": "Feature",
       "id": "SVN",
       "properties": {
-        "name": "Slovenia"
+        "name": "Slovenia",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -39539,7 +41365,19 @@ var mobile={
       "type": "Feature",
       "id": "SWE",
       "properties": {
-        "name": "Sweden"
+        "name": "Sweden",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -39597,7 +41435,19 @@ var mobile={
       "type": "Feature",
       "id": "SWZ",
       "properties": {
-        "name": "Swaziland"
+        "name": "Swaziland",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 60.3
       }
     },
     {
@@ -39719,7 +41569,19 @@ var mobile={
       "type": "Feature",
       "id": "SYR",
       "properties": {
-        "name": "Syria"
+        "name": "Syria",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -39965,7 +41827,19 @@ var mobile={
       "type": "Feature",
       "id": "TCD",
       "properties": {
-        "name": "Chad"
+        "name": "Chad",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 58.8,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -40055,7 +41929,19 @@ var mobile={
       "type": "Feature",
       "id": "TGO",
       "properties": {
-        "name": "Togo"
+        "name": "Togo",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 73.6,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -40325,7 +42211,19 @@ var mobile={
       "type": "Feature",
       "id": "THA",
       "properties": {
-        "name": "Thailand"
+        "name": "Thailand",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -40503,7 +42401,19 @@ var mobile={
       "type": "Feature",
       "id": "TJK",
       "properties": {
-        "name": "Tajikistan"
+        "name": "Tajikistan",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 93.3,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -40733,7 +42643,19 @@ var mobile={
       "type": "Feature",
       "id": "TKM",
       "properties": {
-        "name": "Turkmenistan"
+        "name": "Turkmenistan",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -40791,7 +42713,19 @@ var mobile={
       "type": "Feature",
       "id": "TLS",
       "properties": {
-        "name": "East Timor"
+        "name": "East Timor",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -40837,7 +42771,19 @@ var mobile={
       "type": "Feature",
       "id": "TTO",
       "properties": {
-        "name": "Trinidad and Tobago"
+        "name": "Trinidad and Tobago",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -40975,7 +42921,19 @@ var mobile={
       "type": "Feature",
       "id": "TUN",
       "properties": {
-        "name": "Tunisia"
+        "name": "Tunisia",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -41263,7 +43221,19 @@ var mobile={
       "type": "Feature",
       "id": "TUR",
       "properties": {
-        "name": "Turkey"
+        "name": "Turkey",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -41313,7 +43283,19 @@ var mobile={
       "type": "Feature",
       "id": "TWN",
       "properties": {
-        "name": "Taiwan"
+        "name": "Taiwan",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -41523,7 +43505,19 @@ var mobile={
       "type": "Feature",
       "id": "TZA",
       "properties": {
-        "name": "United Republic of Tanzania"
+        "name": "United Republic of Tanzania",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -41645,7 +43639,20 @@ var mobile={
       "type": "Feature",
       "id": "UGA",
       "properties": {
-        "name": "Uganda"
+        "name": "Uganda",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 43.8,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 67.9,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 59.4,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2004": 10.1,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 16.4
       }
     },
     {
@@ -42051,7 +44058,19 @@ var mobile={
       "type": "Feature",
       "id": "UKR",
       "properties": {
-        "name": "Ukraine"
+        "name": "Ukraine",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 68.2,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -42149,7 +44168,19 @@ var mobile={
       "type": "Feature",
       "id": "URY",
       "properties": {
-        "name": "Uruguay"
+        "name": "Uruguay",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -43973,7 +46004,19 @@ var mobile={
       "type": "Feature",
       "id": "USA",
       "properties": {
-        "name": "United States of America"
+        "name": "United States of America",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -44203,7 +46246,19 @@ var mobile={
       "type": "Feature",
       "id": "UZB",
       "properties": {
-        "name": "Uzbekistan"
+        "name": "Uzbekistan",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -44585,7 +46640,19 @@ var mobile={
       "type": "Feature",
       "id": "VEN",
       "properties": {
-        "name": "Venezuela"
+        "name": "Venezuela",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -44775,7 +46842,19 @@ var mobile={
       "type": "Feature",
       "id": "VNM",
       "properties": {
-        "name": "Vietnam"
+        "name": "Vietnam",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -44843,7 +46922,19 @@ var mobile={
       "type": "Feature",
       "id": "VUT",
       "properties": {
-        "name": "Vanuatu"
+        "name": "Vanuatu",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -44893,7 +46984,19 @@ var mobile={
       "type": "Feature",
       "id": "PSE",
       "properties": {
-        "name": "West Bank"
+        "name": "West Bank",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -45083,7 +47186,19 @@ var mobile={
       "type": "Feature",
       "id": "YEM",
       "properties": {
-        "name": "Yemen"
+        "name": "Yemen",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 80,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -45475,7 +47590,19 @@ var mobile={
       "type": "Feature",
       "id": "ZAF",
       "properties": {
-        "name": "South Africa"
+        "name": "South Africa",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -45733,7 +47860,19 @@ var mobile={
       "type": "Feature",
       "id": "ZMB",
       "properties": {
-        "name": "Zambia"
+        "name": "Zambia",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 0,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 66.4,
+        "HC_HEFF_H_MPH2010": 0,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 0,
+        "HC_HEFF_H_MPH2007": 28,
+        "HC_HEFF_H_MPH2006": 0
       }
     },
     {
@@ -45895,8 +48034,19 @@ var mobile={
       "type": "Feature",
       "id": "ZWE",
       "properties": {
-        "mobile": 62.2,
-        "name": "Zimbabwe"
+        "name": "Zimbabwe",
+        "HC_HEFF_H_MPH2016": 0,
+        "HC_HEFF_H_MPH2015": 86.9,
+        "HC_HEFF_H_MPH2009": 0,
+        "HC_HEFF_H_MPH2008": 0,
+        "HC_HEFF_H_MPH2014": 0,
+        "HC_HEFF_H_MPH2012": 0,
+        "HC_HEFF_H_MPH2013": 0,
+        "HC_HEFF_H_MPH2010": 62.2,
+        "HC_HEFF_H_MPH2011": 0,
+        "HC_HEFF_H_MPH2005": 13.7,
+        "HC_HEFF_H_MPH2007": 0,
+        "HC_HEFF_H_MPH2006": 0
       }
     }
   ]

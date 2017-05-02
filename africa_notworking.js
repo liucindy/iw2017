@@ -32,26 +32,24 @@ function style_base(feature) {
 }
 
 function style_mobile(feature) {
-	var indicator = "HC_HEFF_H_MPH2010";
   return {
     weight: 2,
     opacity: 1,
     color: 'white',
     dashArray: '3',
     fillOpacity: 0.7,
-    fillColor: getColor(feature.properties[indicator])
+    fillColor: getColor(feature.properties.mobile)
   };
 }
 
 function style_fertility(feature) {
-	var indicator = "FE_FRTR_W_GFR2010";
   return {
     weight: 2,
     opacity: 1,
     color: 'white',
     dashArray: '3',
     fillOpacity: 0.7,
-    fillColor: getColor_fertility(feature.properties[indicator])
+    fillColor: getColor_fertility(feature.properties.fertility)
   };
 }
 
@@ -80,40 +78,36 @@ function onEachFeature_fertility(feature, layer) {
 }
 
 function getColor(d) {
-  return d == 0 ? 'gainsboro' :
-			d > 100  ? '#a50f15' :
-      d > 80   ? '#de2d26' :
+  return d > 100  ? '#a50f15' :
+      d > 80  ? '#de2d26' :
       d > 40   ? '#fb6a4a' :
       d > 20   ? '#fcae91' :
-            		'#fee5d9';
+            '#fee5d9';
 }
 
 function getColor_fertility(d) {
-  return d == 0 ? 'gainsboro' :
-			d > 100  ? '#08519c' :
+  return d > 100  ? '#08519c' :
       d > 80  ? '#3182bd' :
       d > 40   ? '#6baed6' :
       d > 20   ? '#bdd7e7' :
             '#eff3ff';
 }
 
-var grayscale   = L.tileLayer(mbUrl, {id: 'mapbox.light', attribution: mbAttr}),
-		streets  = L.tileLayer(mbUrl, {id: 'mapbox.streets',   attribution: mbAttr});
-    satellite  = L.tileLayer(mbUrl, {id: 'mapbox.satellite',   attribution: mbAttr});
-		fertility = L.geoJson(FE_FRTR_W_GFR, {style: style_fertility, onEachFeature: onEachFeature_fertility});
-		country_names = L.geoJson(districts, {style: style_base, onEachFeature: onEachFeature_base});
-		mobile = L.geoJson(HC_HEFF_H_MPH, {style: style_mobile, onEachFeature: onEachFeature_mobile})
+var grayscale   = L.tileLayer(mbUrl, {id: 'mapbox.light', attribution: mbAttr});
+var	streets  = L.tileLayer(mbUrl, {id: 'mapbox.streets',   attribution: mbAttr});
+var satellite  = L.tileLayer(mbUrl, {id: 'mapbox.satellite',   attribution: mbAttr});
+		fertility = L.geoJson(fertility, {style: style_fertility, onEachFeature: onEachFeature_fertility});
+		country_names = L.geoJson(countriesData, {style: style_base, onEachFeature: onEachFeature_base});
+		mobile = L.geoJson(mauritius, {style: style_base, onEachFeature: onEachFeature_base});
 
 var map = L.map('mapid', {
-	center: [-20.38, 57.67],
-	zoom: 9.5,
+	center: [5, 27],
+	zoom: 3,
 	layers: [grayscale, country_names]  // I think these are the layers that automatically get loaded
 });
 
 var baseLayers = {
 	"Grayscale": grayscale,
-	// "Fertility": fertility,
-	// "Mobile": mobile,
 	"Streets": streets,
 	"Satellite": satellite,
 };
@@ -180,7 +174,7 @@ info.onAdd = function (map) {
 
 info.update = function (props) {
 	this._div.innerHTML = '<h4>Percent of households with mobile phones</h4>' +  (props ?
-		'<b>' + props.name + '</b><br />' + props.HC_HEFF_H_MPH2008 + ' percent'
+		'<b>' + props.name + '</b><br />' + props.mobile + ' percent'
 		: 'Hover over a country');
 };
 
@@ -210,33 +204,29 @@ legend.onAdd = function (map) {
 
 // legend.addTo(map);
 
-// var legend2 = L.control({position: 'bottomright'});
-//
-// legend2.onAdd = function (map) {
-//
-// 	var div = L.DomUtil.create('div', 'info legend'),
-// 		grades = [0, 50, 100, 150, 200],
-// 		labels = [],
-// 		from, to;
-//
-// 	for (var i = 0; i < grades.length; i++) {
-// 		from = grades[i];
-// 		to = grades[i + 1];
-//
-// 		labels.push(
-// 			'<i style="background:' + getColor(from + 1) + '"></i> ' +
-// 			from + (to ? '&ndash;' + to : '+'));
-// 	}
-//
-// 	div.innerHTML = labels.join('<br>');
-// 	return div;
-// };
-//
-// 	legend2.addTo(map);
+var legend2 = L.control({position: 'bottomright'});
 
+legend2.onAdd = function (map) {
 
+	var div = L.DomUtil.create('div', 'info legend'),
+		grades = [0, 50, 100, 150, 200],
+		labels = [],
+		from, to;
 
+	for (var i = 0; i < grades.length; i++) {
+		from = grades[i];
+		to = grades[i + 1];
 
+		labels.push(
+			'<i style="background:' + getColor2(from + 1) + '"></i> ' +
+			from + (to ? '&ndash;' + to : '+'));
+	}
+
+	div.innerHTML = labels.join('<br>');
+	return div;
+};
+
+	// legend2.addTo(map);
 
 // var geojson = L.geoJson(dhsData, {style: style}).addTo(map);
 // L.geoJson(statesData, {style: style}).addTo(map);
@@ -246,5 +236,13 @@ legend.onAdd = function (map) {
 //     subdomains: ['a','b','c']
 // }).addTo( map );
 
-// var marker = L.marker([-20, 47]).addTo(map);
-// marker.bindPopup("<b>Households possessing a mobile telephone:</b><br>25.2").openPopup();
+var marker = L.circleMarker([-20.29, 57.68]).addTo(map);
+marker.bindPopup("<b>Sebastopol</b><br>25.2").openPopup();
+var marker2 = L.marker([-20.42, 57.62]).addTo(map);
+marker2.bindPopup("<b>Mare d'Albert</b><br>25.2").openPopup();
+var marker3 = L.marker([-19.69, 63.40]).addTo(map);
+marker3.bindPopup("<b>Baie aux Huitres</b><br>25.2").openPopup();
+var marker4 = L.marker([-20.12, 57.49]).addTo(map);
+marker3.bindPopup("<b>Baie du Tombeau</b><br>25.2").openPopup();
+var marker5 = L.marker([-20.26, 57.41]).addTo(map);
+marker3.bindPopup("<b>Bambous</b><br>25.2").openPopup();

@@ -1,0 +1,57 @@
+// function onEachFeature_mobile(feature, layer) {
+// 	var coords = feature.mvca_coords;
+//
+// 	var avg = feature.totalmonthlyincome / feature.num_records;
+//
+// 	var circle = L.circle([coords], {
+// 		color: getColor(avg),
+// 		fillColor: getColor(avg),
+// 		fillOpacity: 0.5,
+// 		radius: getRadius(avg)
+// 	});
+// 	circle.bindTooltip('Average monthly income: ' + avg);
+// 	avg_totmonincgrp.push(circle);
+// 	circle.addTo(layer)
+//
+//   layer.on({
+//     mouseover: highlightFeature,
+//     mouseout: resetHighlight_base,
+//     click: zoomToFeature
+//   });
+// }
+
+//
+// function style_mobile(feature) {
+//   return {
+//     weight: 2,
+//     opacity: 1,
+//     color: 'white',
+//     dashArray: '3',
+//     fillOpacity: 0.7,
+//     // fillColor: getColor(feature.totalmonthlyincome)
+//   };
+// }
+
+// function getColor(d) {
+//   return d == 0 ? 'gainsboro' :
+// 			d > 100  ? '#a50f15' :
+//       d > 80   ? '#de2d26' :
+//       d > 40   ? '#fb6a4a' :
+//       d > 20   ? '#fcae91' :
+//             		'#fee5d9';
+// }
+
+
+// function getIcon(d) {
+// 	return d == 1 ? 'gas.png':
+// 				 d == 2 ? 'gas.png':
+// 				 d == 3 ? 'wood.png':
+// 				 'electricity.png';
+// }
+
+
+//  var markerLocation = new L.LatLng(lat, lon);
+//  var marker = new L.Marker(markerLocation);
+//  map.addLayer(marker);
+ //
+//  marker.bindLabel('average');

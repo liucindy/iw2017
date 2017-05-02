@@ -1,0 +1,331 @@
+var srm=[
+  {
+    "totalmonthlyincome": 16500,
+    "fuel_type": 15,
+    "num_records": 11,
+    "mvca": "Baie aux Huitres",
+    "mvca_coords": "-19.69, 63.41"
+  },
+  {
+    "totalmonthlyincome": 15000,
+    "fuel_type": 18,
+    "num_records": 18,
+    "mvca": "Baie du Tombeau",
+    "mvca_coords": "-20.12, 57.49"
+  },
+  {
+    "totalmonthlyincome": 24000,
+    "fuel_type": 12,
+    "num_records": 4,
+    "mvca": "Bambous",
+    "mvca_coords": "-20.26, 57.41"
+  },
+  {
+    "totalmonthlyincome": 28000,
+    "fuel_type": 8,
+    "num_records": 8,
+    "mvca": "BBassin/Rose-Hill Wd 2",
+    "mvca_coords": "-20.24, 57.47"
+  },
+  {
+    "totalmonthlyincome": 25185,
+    "fuel_type": 5,
+    "num_records": 5,
+    "mvca": "BBassin/Rose-Hill Wd 4",
+    "mvca_coords": "-20.24, 57.47"
+  },
+  {
+    "totalmonthlyincome": 0,
+    "fuel_type": 20,
+    "num_records": 5,
+    "mvca": "Bois Cheri",
+    "mvca_coords": "-20.42, 58.53"
+  },
+  {
+    "totalmonthlyincome": 39000,
+    "fuel_type": 21,
+    "num_records": 11,
+    "mvca": "Brisée Verdiere South",
+    "mvca_coords": "-20.16, 57.65"
+  },
+  {
+    "totalmonthlyincome": 15300,
+    "fuel_type": 3,
+    "num_records": 3,
+    "mvca": "Camp Ithier",
+    "mvca_coords": "-20.22, 57.75"
+  },
+  {
+    "totalmonthlyincome": 24000,
+    "fuel_type": 6,
+    "num_records": 6,
+    "mvca": "Centre de Flacq",
+    "mvca_coords": "-20.19, 57.71"
+  },
+  {
+    "totalmonthlyincome": 15000,
+    "fuel_type": 3,
+    "num_records": 3,
+    "mvca": "Curepipe Wd 2",
+    "mvca_coords": "-20.31, 57.52"
+  },
+  {
+    "totalmonthlyincome": 15000,
+    "fuel_type": 3,
+    "num_records": 3,
+    "mvca": "Ecroignard",
+    "mvca_coords": "-20.23, 57.74"
+  },
+  {
+    "totalmonthlyincome": 8000,
+    "fuel_type": 4,
+    "num_records": 4,
+    "mvca": "Esperance",
+    "mvca_coords": "-20.23, 57.59"
+  },
+  {
+    "totalmonthlyincome": 28000,
+    "fuel_type": 4,
+    "num_records": 4,
+    "mvca": "Goodlands",
+    "mvca_coords": "-20.04, 57.64"
+  },
+  {
+    "totalmonthlyincome": 0,
+    "fuel_type": 4,
+    "num_records": 1,
+    "mvca": "Grand Bois",
+    "mvca_coords": "-20.42, 57.54"
+  },
+  {
+    "totalmonthlyincome": 40000,
+    "fuel_type": 9,
+    "num_records": 9,
+    "mvca": "Grand Gaube",
+    "mvca_coords": "-20.00, 57.66"
+  },
+  {
+    "totalmonthlyincome": 36000,
+    "fuel_type": 6,
+    "num_records": 6,
+    "mvca": "Grand River South East",
+    "mvca_coords": "-20.29, 57.78"
+  },
+  {
+    "totalmonthlyincome": 80500,
+    "fuel_type": 7,
+    "num_records": 7,
+    "mvca": "Grande Montagne",
+    "mvca_coords": "-19.71, 63.47"
+  },
+  {
+    "totalmonthlyincome": 28000,
+    "fuel_type": 4,
+    "num_records": 4,
+    "mvca": "Gros Cailloux",
+    "mvca_coords": "-20.21, 57.43"
+  },
+  {
+    "totalmonthlyincome": 628755,
+    "fuel_type": 99,
+    "num_records": 75,
+    "mvca": "La Ferme",
+    "mvca_coords": "-19.70, 63.38"
+  },
+  {
+    "totalmonthlyincome": 36500,
+    "fuel_type": 7,
+    "num_records": 7,
+    "mvca": "Laventure South",
+    "mvca_coords": "-20.15, 57.68"
+  },
+  {
+    "totalmonthlyincome": 32000,
+    "fuel_type": 7,
+    "num_records": 7,
+    "mvca": "Mare d'Albert",
+    "mvca_coords": "-20.42, 57.68"
+  },
+  {
+    "totalmonthlyincome": 2250,
+    "fuel_type": 13,
+    "num_records": 7,
+    "mvca": "Marechal",
+    "mvca_coords": "-19.73, 63.40"
+  },
+  {
+    "totalmonthlyincome": 24000,
+    "fuel_type": 4,
+    "num_records": 4,
+    "mvca": "Medine Camp de Masque East",
+    "mvca_coords": "-20.24, 57.64"
+  },
+  {
+    "totalmonthlyincome": 59860,
+    "fuel_type": 19,
+    "num_records": 9,
+    "mvca": "Moka East",
+    "mvca_coords": "-20.22, 57.50"
+  },
+  {
+    "totalmonthlyincome": 61400,
+    "fuel_type": 13,
+    "num_records": 13,
+    "mvca": "Olivia",
+    "mvca_coords": "-20.30, 57.53"
+  },
+  {
+    "totalmonthlyincome": 36000,
+    "fuel_type": 4,
+    "num_records": 4,
+    "mvca": "Pailles",
+    "mvca_coords": "-20.20, 57.49"
+  },
+  {
+    "totalmonthlyincome": 45000,
+    "fuel_type": 9,
+    "num_records": 9,
+    "mvca": "Pamplemouses",
+    "mvca_coords": "-20.10, 57.57"
+  },
+  {
+    "totalmonthlyincome": 32500,
+    "fuel_type": 5,
+    "num_records": 5,
+    "mvca": "Petite Riviere",
+    "mvca_coords": "-20.20, 57.44"
+  },
+  {
+    "totalmonthlyincome": 50000,
+    "fuel_type": 36,
+    "num_records": 24,
+    "mvca": "PL Wd 1 East",
+    "mvca_coords": "-20.16, 57.50"
+  },
+  {
+    "totalmonthlyincome": 107800,
+    "fuel_type": 23,
+    "num_records": 23,
+    "mvca": "PL Wd 3",
+    "mvca_coords": "-20.16, 57.50"
+  },
+  {
+    "totalmonthlyincome": 26000,
+    "fuel_type": 17,
+    "num_records": 17,
+    "mvca": "PL Wd 4",
+    "mvca_coords": "-20.16, 57.50"
+  },
+  {
+    "totalmonthlyincome": 94348,
+    "fuel_type": 18,
+    "num_records": 18,
+    "mvca": "PL Wd 5",
+    "mvca_coords": "-20.16, 57.50"
+  },
+  {
+    "totalmonthlyincome": 57186,
+    "fuel_type": 35,
+    "num_records": 35,
+    "mvca": "PL Wd 6",
+    "mvca_coords": "-20.16, 57.50"
+  },
+  {
+    "totalmonthlyincome": 99100,
+    "fuel_type": 15,
+    "num_records": 15,
+    "mvca": "Plaine Magnien",
+    "mvca_coords": "-20.43, 57.67"
+  },
+  {
+    "totalmonthlyincome": 160352,
+    "fuel_type": 41,
+    "num_records": 21,
+    "mvca": "Port Mathurin",
+    "mvca_coords": "-19.68, 63.42"
+  },
+  {
+    "totalmonthlyincome": 20000,
+    "fuel_type": 4,
+    "num_records": 4,
+    "mvca": "Poudre d'Or Hamlet",
+    "mvca_coords": "-20.08, 57.65"
+  },
+  {
+    "totalmonthlyincome": 0,
+    "fuel_type": 4,
+    "num_records": 4,
+    "mvca": "Providence",
+    "mvca_coords": "-20.24, 57.61"
+  },
+  {
+    "totalmonthlyincome": 26000,
+    "fuel_type": 13,
+    "num_records": 7,
+    "mvca": "Pte aux Piments",
+    "mvca_coords": "-20.06, 57.51"
+  },
+  {
+    "totalmonthlyincome": 15000,
+    "fuel_type": 24,
+    "num_records": 14,
+    "mvca": "QBornes Wd 3 East",
+    "mvca_coords": "-20.26, 57.48"
+  },
+  {
+    "totalmonthlyincome": 28500,
+    "fuel_type": 6,
+    "num_records": 6,
+    "mvca": "Rose Belle",
+    "mvca_coords": "-20.40, 57.60"
+  },
+  {
+    "totalmonthlyincome": 250900,
+    "fuel_type": 16,
+    "num_records": 12,
+    "mvca": "Saint Gabriel",
+    "mvca_coords": "-19.70, 63.43"
+  },
+  {
+    "totalmonthlyincome": 9000,
+    "fuel_type": 3,
+    "num_records": 3,
+    "mvca": "Sebastopol",
+    "mvca_coords": "-20.29, 57.69"
+  },
+  {
+    "totalmonthlyincome": 40500,
+    "fuel_type": 7,
+    "num_records": 7,
+    "mvca": "Surinam",
+    "mvca_coords": "-20.51, 57.51"
+  },
+  {
+    "totalmonthlyincome": 74250,
+    "fuel_type": 22,
+    "num_records": 22,
+    "mvca": "Triolet",
+    "mvca_coords": "-20.05, 57.55"
+  },
+  {
+    "totalmonthlyincome": 16500,
+    "fuel_type": 3,
+    "num_records": 3,
+    "mvca": "Vacoas/Phoenix Wd 2",
+    "mvca_coords": "-20.30, 57.48"
+  },
+  {
+    "totalmonthlyincome": 26400,
+    "fuel_type": 6,
+    "num_records": 6,
+    "mvca": "Vacoas/Phoenix Wd 3",
+    "mvca_coords": "-20.30, 57.48"
+  },
+  {
+    "totalmonthlyincome": 11600,
+    "fuel_type": 7,
+    "num_records": 7,
+    "mvca": "Vacoas/Phoenix Wd 4 West",
+    "mvca_coords": "-20.30, 57.48"
+  }
+]
