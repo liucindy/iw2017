@@ -157,10 +157,10 @@ var baseLayers = {
 };
 
 var overlays = {
-  "Districts": districts,
+  // "Districts": districts,
   "Income": income,
 	"Fuel": fuel,
-  "Mobile": mobile,
+  "District income": mobile,
 	// "Fertility": fertility,
 	// "Mobile": mobile,
 	// "Cities": cities
